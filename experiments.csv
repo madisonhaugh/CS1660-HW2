@@ -1,0 +1,6 @@
+﻿data1,experiment1,1/1/2021,exp1.csv,"Experiment 1, Trial 1"
+data1,experiment2,2/2/2021,exp2.csv,"Experiment 2, Trial 1"
+data2,experiment2,2/2/2021,exp2.csv,"Experiment 2, Trial 2"
+data1,experiment3,3/3/2021,exp3.csv,"Experiment 3, Trial 1"
+data2,experiment3,3/3/2021,exp3.csv,"Experiment 3, Trial 2"
+data3,experiment3,3/3/2021,exp3.csv,"Experiment 3, Trial 3"
