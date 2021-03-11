@@ -4,7 +4,7 @@ import boto3
 
 #Access resource using a pair of access and secret keys
 s3 = boto3.resource('s3',
-    aws_access_key_id='AKIA3BS4M7IYPPUDJ24G', aws_secret_access_key='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'
+    aws_access_key_id='', aws_secret_access_key=''
 )
 
 #Create a new bucket to upload blobs to if it doesn't already exist
